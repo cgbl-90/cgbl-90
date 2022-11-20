@@ -3,7 +3,7 @@ i'm carmen 😊🇩🇴
 
 currently, i'm learning frontend development 💻
 
-focusing on React & Saas
+focusing on React & Sass
 
 fav projects so far:
 [React dictionary with API integration](https://github.com/cgbl-90/dictionary-project) & [React quiz app](https://github.com/cgbl-90/react-quiz-app)
