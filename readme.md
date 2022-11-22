@@ -5,10 +5,10 @@ currently, i'm learning frontend development 💻
 
 focusing on React & Sass
 
-fav projects so far:
+fav projects:
 [React dictionary with API integration](https://github.com/cgbl-90/dictionary-project) & [React quiz app](https://github.com/cgbl-90/react-quiz-app)
 
-[Directory of my projects](https://github.com/cgbl-90/cgbl-90/blob/main/project-directory.md)
+[directory of all projects](https://github.com/cgbl-90/cgbl-90/blob/main/project-directory.md)
 
 10yrs working in tech companies on: 
 
