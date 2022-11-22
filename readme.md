@@ -10,6 +10,6 @@ fav projects so far:
 
 10yrs working in tech companies on: 
 
-customer success · customer experience · project management · account management
+customer success · customer experience · project management · account management · country/regional/market management
 
 Telegram: @cg_bl
