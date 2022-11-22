@@ -29,15 +29,16 @@
 
 #Working with API (Axios)
 
-[Dictionary app](https://github.com/cgbl-90/dictionary-project)
+[Dictionary app](https://github.com/cgbl-90/dictionary-project) using Merriam-Webster's Collegiate Dictionary API (https://dictionaryapi.com/)
 
-[Country data app](https://github.com/cgbl-90/axios-countries-api)
+[Countries data app](https://github.com/cgbl-90/axios-countries-api) using Rest Countries API (https://restcountries.com/)
 
 [Weather app](https://github.com/cgbl-90/weather-app-2)
 
-[Weather app v2](https://github.com/cgbl-90/weather-app)
+[Weather app v2](https://github.com/cgbl-90/weather-app) using Open Weather Map API (https://openweathermap.org/)
 
-[Quotes app](https://github.com/cgbl-90/inspirational_quotes_with_API)
+[Quotes app](https://github.com/cgbl-90/inspirational_quotes_with_API) using Quotes API from https://rapidapi.com/hub
+
 
 #React
 
