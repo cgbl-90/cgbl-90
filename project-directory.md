@@ -1,4 +1,4 @@
-###React
+### React
 
 [Dictionary app](https://github.com/cgbl-90/dictionary-project)
 
@@ -22,7 +22,7 @@
 [Review smart contracts](https://github.com/cgbl-90/ether-react-smart-contract)
 
 
-###CSS + Sass
+### CSS + Sass
 
 [Travel Agency website - Thousand Sunny](https://github.com/cgbl-90/sass-thousand-sunny)
 
@@ -43,7 +43,7 @@
 [Portfolio developed during Shecodes bootcamp](https://github.com/cgbl-90/shecodes-portfolio)
 
 
-###ChartJS (working with charts)
+### ChartJS (working with charts)
 
 [Line chart](https://github.com/cgbl-90/chartjs-line-chart-test)
 
@@ -52,7 +52,7 @@
 [Complex charts](https://github.com/cgbl-90/chartjs-complex-graphics)
 
 
-###Working with API (Axios)
+### Working with API (Axios)
 
 [Dictionary app](https://github.com/cgbl-90/dictionary-project) using Merriam-Webster's Collegiate Dictionary API (https://dictionaryapi.com/)
 
