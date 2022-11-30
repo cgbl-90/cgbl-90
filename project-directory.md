@@ -1,4 +1,28 @@
-#CSS + Sass
+###React
+
+[Dictionary app](https://github.com/cgbl-90/dictionary-project)
+
+[CSAT app](https://github.com/cgbl-90/csat-react-app)
+
+[Weather app with React](https://github.com/cgbl-90/react-weather-app)
+
+[Color quiz app](https://github.com/cgbl-90/react-quiz-app)
+
+[Dashboard](https://github.com/cgbl-90/flask-react-dashboard)
+
+[Notepad](https://github.com/cgbl-90/react-word)
+
+[Movies app](https://github.com/cgbl-90/react-movies-code)
+
+
+### Ether.js (Blockchain)
+
+[Check ETH balance using address](https://github.com/cgbl-90/ether-react-balance)
+
+[Review smart contracts](https://github.com/cgbl-90/ether-react-smart-contract)
+
+
+###CSS + Sass
 
 [Travel Agency website - Thousand Sunny](https://github.com/cgbl-90/sass-thousand-sunny)
 
@@ -18,7 +42,8 @@
 
 [Portfolio developed during Shecodes bootcamp](https://github.com/cgbl-90/shecodes-portfolio)
 
-#ChartJS (working with charts)
+
+###ChartJS (working with charts)
 
 [Line chart](https://github.com/cgbl-90/chartjs-line-chart-test)
 
@@ -27,7 +52,7 @@
 [Complex charts](https://github.com/cgbl-90/chartjs-complex-graphics)
 
 
-#Working with API (Axios)
+###Working with API (Axios)
 
 [Dictionary app](https://github.com/cgbl-90/dictionary-project) using Merriam-Webster's Collegiate Dictionary API (https://dictionaryapi.com/)
 
@@ -38,20 +63,3 @@
 [Weather app v2](https://github.com/cgbl-90/weather-app) using Open Weather Map API (https://openweathermap.org/)
 
 [Quotes app](https://github.com/cgbl-90/inspirational_quotes_with_API) using Quotes API from https://rapidapi.com/hub
-
-
-#React
-
-[Dictionary app](https://github.com/cgbl-90/dictionary-project)
-
-[CSAT app](https://github.com/cgbl-90/csat-react-app)
-
-[Weather app with React](https://github.com/cgbl-90/react-weather-app)
-
-[Color quiz app](https://github.com/cgbl-90/react-quiz-app)
-
-[Dashboard](https://github.com/cgbl-90/flask-react-dashboard)
-
-[Notepad](https://github.com/cgbl-90/react-word)
-
-[Movies app](https://github.com/cgbl-90/react-movies-code)
