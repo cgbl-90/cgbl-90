@@ -3,10 +3,12 @@ i'm carmen 😊🇩🇴
 
 currently, i'm learning frontend development 💻
 
-focusing on React & Sass
+focusing on React, Ether.js & Sass
 
 fav projects:
-[React dictionary with API integration](https://github.com/cgbl-90/dictionary-project) & [React quiz app](https://github.com/cgbl-90/react-quiz-app)
+[React dictionary with API integration](https://github.com/cgbl-90/dictionary-project)
+[React quiz app](https://github.com/cgbl-90/react-quiz-app)
+[React ether.js - ETH balance check](https://github.com/cgbl-90/ether-react-balance)
 
 [directory of all projects](https://github.com/cgbl-90/cgbl-90/blob/main/project-directory.md)
 
