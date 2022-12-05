@@ -13,7 +13,7 @@ fav projects:
 
 [React ether.js - ETH balance check](https://github.com/cgbl-90/ether-react-balance)
 
-[directory of all projects](https://github.com/cgbl-90/cgbl-90/blob/main/project-directory.md)
+✨[directory of all projects](https://github.com/cgbl-90/cgbl-90/blob/main/project-directory.md)
 
 10yrs working in tech companies on: 
 
