@@ -3,7 +3,7 @@ i'm carmen 😊🇩🇴
 
 currently, i'm learning frontend development 💻
 
-focusing on React, Ether.js & Sass
+focusing on React✨
 
 fav projects:
 
