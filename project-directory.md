@@ -8,11 +8,9 @@
 
 [Color quiz app](https://github.com/cgbl-90/react-quiz-app)
 
-[Dashboard](https://github.com/cgbl-90/flask-react-dashboard)
+[React review component](https://review-component-by-cgbl.netlify.app/)
 
-[Notepad](https://github.com/cgbl-90/react-word)
-
-[Movies app](https://github.com/cgbl-90/react-movies-code)
+[React work experience and education component](https://react-cv-experience-by-cgbl.netlify.app/)
 
 
 ### Ether.js (Blockchain)
