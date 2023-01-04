@@ -12,6 +12,8 @@
 
 [React work experience and education component](https://react-cv-experience-by-cgbl.netlify.app/)
 
+[React clocks](https://github.com/cgbl-90/react-world-clocks)
+
 
 ### Ether.js (Blockchain)
 
