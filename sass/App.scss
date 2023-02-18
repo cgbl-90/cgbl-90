@@ -61,9 +61,12 @@ footer {
 }
 
 .mobMenuItem {
-  margin: 32px 0px;
-  text-align: left;
+  margin: 0px 0px 32px;
+  padding: 0px;
+  text-align: right;
   display: block;
+  font-size: 28px;
+  line-height: 28px;
 }
 
 a,
@@ -326,10 +329,32 @@ footer {
   }
 }
 
+.btnWeb {
+  display: inline;
+}
+
+.btnMob {
+  display: none;
+}
+
 @media only screen and (max-width: 900px) {
   .flex {
     flex-direction: column;
   }
+
+  .btnMob {
+    display: block;
+    text-align: center;
+    margin: 70px 0 20px;
+    button {
+      padding: 5px;
+    }
+  }
+
+  .btnWeb {
+    display: none;
+  }
+
   .flex-child {
     max-width: 100%;
   }
@@ -417,7 +442,17 @@ footer {
     }
   }
 
-  #about {
+  header {
+    h1 {
+      font-size: 28px;
+      line-height: 32px;
+    }
+  }
+
+  #about,
+  #about2,
+  #about3,
+  .reviews {
     h3 {
       font-size: 20px;
       line-height: 28px;
