@@ -11,4 +11,6 @@ fav projects:
 
 customer success · customer experience · project management · account management · country/regional/market management
 
+social:
+
 telegram: @cg_bl · discord: @cg_bl#8683
