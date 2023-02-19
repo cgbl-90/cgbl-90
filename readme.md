@@ -1,7 +1,7 @@
 
 i'm **carmen** 😊🇩🇴
 
-currently, i'm learning frontend development 💻 focusing on React✨
+learning frontend development 💻 focusing on React✨
 
 **fav projects:**
 
