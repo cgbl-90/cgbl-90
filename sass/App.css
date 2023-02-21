@@ -220,8 +220,7 @@ footer div {
   transition: 0.3s ease;
 }
 .image-card img:hover, .image-card img:focus {
-  filter: brightness(0.8);
-  opacity: 0.8;
+  filter: opacity(0.8);
 }
 .image-card h5 {
   margin: 0;
@@ -255,10 +254,6 @@ footer div {
   text-align: center;
   padding: 6px 12px;
   font-size: 14px;
-}
-
-.scale-in-top {
-  animation: scale-in-top 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
 }
 
 .grid {
@@ -454,15 +449,45 @@ footer div {
 .closeBurger {
   display: none;
 }
-@keyframes scale-in-top {
+
+/* Animation
+
+.scale-in-top {
+  -webkit-animation: scale-in-top 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+  animation: scale-in-top 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+
+@-webkit-keyframes scale-in-top {
   0% {
+    -webkit-transform: scale(0);
     transform: scale(0);
+    -webkit-transform-origin: 50% 0%;
     transform-origin: 50% 0%;
     opacity: 1;
   }
   100% {
+    -webkit-transform: scale(1);
     transform: scale(1);
+    -webkit-transform-origin: 50% 0%;
     transform-origin: 50% 0%;
     opacity: 1;
   }
-}/*# sourceMappingURL=App.css.map */
+}
+@keyframes scale-in-top {
+  0% {
+    -webkit-transform: scale(0);
+    transform: scale(0);
+    -webkit-transform-origin: 50% 0%;
+    transform-origin: 50% 0%;
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transform-origin: 50% 0%;
+    transform-origin: 50% 0%;
+    opacity: 1;
+  }
+}
+
+*//*# sourceMappingURL=App.css.map */

@@ -239,8 +239,7 @@ footer {
     transition: 0.3s ease;
     &:hover,
     &:focus {
-      filter: brightness(0.8);
-      opacity: 0.8;
+      filter: opacity(0.8);
     }
   }
 
@@ -280,11 +279,6 @@ footer {
   text-align: center;
   padding: 6px 12px;
   font-size: 14px;
-}
-
-.scale-in-top {
-  -webkit-animation: scale-in-top 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
-  animation: scale-in-top 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
 }
 
 .grid {
@@ -546,7 +540,13 @@ footer {
   display: none;
 }
 
-// Animation
+/* Animation
+
+.scale-in-top {
+  -webkit-animation: scale-in-top 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+  animation: scale-in-top 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+
 @-webkit-keyframes scale-in-top {
   0% {
     -webkit-transform: scale(0);
@@ -579,3 +579,5 @@ footer {
     opacity: 1;
   }
 }
+
+*/
