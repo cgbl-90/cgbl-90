@@ -239,7 +239,7 @@ footer {
     transition: 0.3s ease;
     &:hover,
     &:focus {
-      filter: blur(1px);
+      filter: brightness(0.8);
       opacity: 0.8;
     }
   }
@@ -338,6 +338,11 @@ footer {
 }
 
 @media only screen and (max-width: 900px) {
+  .image-card {
+    justify-content: none;
+    align-items: none;
+  }
+
   .flex {
     flex-direction: column;
   }
@@ -395,6 +400,13 @@ footer {
 }
 
 @media only screen and (max-width: 560px) {
+  // Mobile phones
+
+  h2 {
+    font-size: 28px;
+    line-height: 28px;
+  }
+
   h3,
   h5,
   ul {
@@ -468,13 +480,24 @@ footer {
     }
   }
 
+  .slider {
+    min-height: 300px;
+  }
+
   .image-card {
+    display: block;
     a {
       img {
         width: 400px;
         height: auto;
         margin: 0 auto;
       }
+    }
+
+    span {
+      margin: 0;
+      padding: 0;
+      text-align: left;
     }
   }
 
@@ -493,6 +516,28 @@ footer {
   .goRound {
     width: 40px;
     height: 40px;
+  }
+
+  #about2 {
+    .flex-child {
+      img {
+        width: 80%;
+      }
+    }
+  }
+
+  //
+  .hideDropdown {
+    height: 100vh;
+  }
+
+  // distance
+  .image-card {
+    span {
+      h5 {
+        margin-bottom: 40px;
+      }
+    }
   }
 }
 
