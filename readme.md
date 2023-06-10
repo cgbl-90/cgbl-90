@@ -1,16 +1,21 @@
 
 i'm **carmen** 😊🇩🇴
 
-learning frontend development 💻 focusing on React✨
+**about me:**
 
-**fav projects:**
+ · >10yrs working in tech companies
+ · expert in all things customer in tech
+ · junior frontend developer, focusing on React
+ · traveler, dog lover
+ · art and history wannabe connoisseur
 
-[React dictionary with API integration](https://github.com/cgbl-90/dictionary-project) · [React quiz app](https://github.com/cgbl-90/react-quiz-app) · [React ether.js - ETH balance check](https://github.com/cgbl-90/ether-react-balance) · ✨[directory of all projects](https://github.com/cgbl-90/cgbl-90/blob/main/project-directory.md)
+**my fav projects:**
 
-**10yrs working in tech companies on:**
+ · [React dictionary with API integration](https://github.com/cgbl-90/dictionary-project)
+ · [React quiz app](https://github.com/cgbl-90/react-quiz-app)
+ · [React ether.js - ETH balance check](https://github.com/cgbl-90/ether-react-balance)
+ · ✨[directory of all projects](https://github.com/cgbl-90/cgbl-90/blob/main/project-directory.md)
 
-customer success · customer experience · project management · account management · country/regional/market management
+**keywords for robots:**
 
-**social:**
-
-telegram: @cg_bl · discord: @cg_bl#8683
+customer success · customer experience · project management · account management · country/regional/market management · technical support · developer support · UI regression · testing
