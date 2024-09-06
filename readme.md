@@ -1,15 +1,11 @@
 
 i'm **carmen** 😊🇩🇴
 
-**about me:**
+**about me:** >10yrs working on the tech industry in customer experience & success roles and development
+ 
+**focus:** React, UI testing, Storybook and Chromatic 
 
- · >10yrs in tech
- 
- · customer experience expert | MA in CX
- 
- · frontend developer | React
- 
- · ui testing | Storybook and Chromatic 
+**latest:** i'm currently doing a MA in customer experience innovation
 
 **email me [here](mailto:carmenbaez2000@gmail.com)**
 
