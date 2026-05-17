@@ -1,7 +1,7 @@
 
 i'm **carmen** 😊🇩🇴
 
-**about me:** >10yrs working on the tech industry in CX & development
+**about me:** >12yrs working on the tech industry in CX & development
  
 **focus:** 🎼 skills, skills, skills 🎵 
 
